@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    background-color: #356780;
+    text-align: center;
+}
+
+#temp {
+    margin-top: 10%;
+}
+
+#park-facts, #temp {
+    color: white;
+    font-family: 'Verdana';
+    letter-spacing: 1pt;
+    font-size: 24px;
+}
+
+#park-acreage, #park-mileage {
+    color: white;
+    font-family: 'Open Sans';
+}
+
+.icons {
+    height: 45px;
+}
